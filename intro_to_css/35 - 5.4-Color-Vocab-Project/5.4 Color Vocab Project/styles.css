@@ -1,3 +1,29 @@
-*{
-    background-color: rebeccapurple;
+#red{
+    color: red;
+    font-weight: lighter;
+}
+
+#blue{
+    color: blue;
+    font-weight: lighter;
+}
+
+#orange{
+    color: orange;
+    font-weight: lighter;
+}
+
+#green{
+    color: green;
+    font-weight: lighter;
+}
+
+#yellow{
+    color: yellow;
+    font-weight: lighter;
+}
+
+img{
+    width: 200px;
+    height: 200px;
 }
