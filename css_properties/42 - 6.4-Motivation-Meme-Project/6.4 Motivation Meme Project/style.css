@@ -1,0 +1,21 @@
+#photo-block {
+    margin-top: 100px;
+    margin-left: 25%;
+    width: 50%;
+    color: white;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+#photo {
+    width: 100%;
+    border: solid white 5px;
+}
+
+* {
+    background-color: black;
+}
