@@ -13,6 +13,7 @@ body {
 h1 {
   font-size: 5rem;
   display: block;
+  font-weight: bold;
 }
 
 footer {
@@ -42,7 +43,7 @@ footer {
   margin-right: 40px;
 }
 
-.left > .card-title{
+.card-title{
   clear: right;
 }
 
@@ -52,10 +53,6 @@ footer {
 
 .right{
   float: right;
-}
-
-.right > .card-title{
-  clear: right;
 }
 
 .right > .card-text{
