@@ -4,6 +4,10 @@
   animation: gradient-animation 18s ease infinite;
 }
 
+.iphone-photo{
+  padding-top: 6rem;
+}
+
 @keyframes gradient-animation {
   0% {
     background-position: 0% 50%;
